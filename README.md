@@ -1,12 +1,12 @@
 Estudiante 1:
-Nombre:María Alejandra Moreno Bustillo
-Código:202021603
-Correo:m.morenob@uniandes.edu.co
+Nombre: María Alejandra Moreno Bustillo
+Código: 202021603
+Correo: m.morenob@uniandes.edu.co
 
 Estudiante 2:
-Nombre:
-Código:
-Correo:
+Nombre: Juliana Delgadillo Cheyne
+Código: 202020986
+Correo: j.delgadillo@uniandes.edu.co
 
 #ISIS1225 - Estructura de un proyecto
 
